@@ -1,0 +1,7 @@
+A=int(input())
+B=input()
+AB1=A*int(B[2])
+AB2=A*int(B[1])
+AB3=A*int(B[0])
+AB=A*int(B)
+print(AB1,AB2,AB3,AB,sep='\n')
